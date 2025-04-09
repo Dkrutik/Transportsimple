@@ -1,4 +1,4 @@
-# Quora Clone - Django Project
+# Transport-Simple - Django Project
 
 A simple Quora-like platform built using Django where users can:
 - Register / Login
